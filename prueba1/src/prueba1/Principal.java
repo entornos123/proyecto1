@@ -10,6 +10,7 @@ public class Principal {
 		System.out.println("Hola mundo java-git");
 		System.out.println("Modificando el archivo");
 		System.out.println("Buenos días");
+		System.out.println("Pruebas Git. Se añade Cambio 1");
 	}
 }
 
